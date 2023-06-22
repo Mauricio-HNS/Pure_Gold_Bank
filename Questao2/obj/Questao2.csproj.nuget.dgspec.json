@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Destiny7\\OneDrive\\Área de Trabalho\\Teste-1\\Questao2\\Questao2.csproj": {}
+    "C:\\Projetos\\Test_Bank\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Destiny7\\OneDrive\\Área de Trabalho\\Teste-1\\Questao2\\Questao2.csproj": {
+    "C:\\Projetos\\Test_Bank\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Destiny7\\OneDrive\\Área de Trabalho\\Teste-1\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Projetos\\Test_Bank\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\Destiny7\\OneDrive\\Área de Trabalho\\Teste-1\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Projetos\\Test_Bank\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\Destiny7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Destiny7\\OneDrive\\Área de Trabalho\\Teste-1\\Questao2\\obj\\",
+        "outputPath": "C:\\Projetos\\Test_Bank\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

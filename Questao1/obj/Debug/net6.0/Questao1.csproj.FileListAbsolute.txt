@@ -13,3 +13,18 @@ C:\Users\Destiny7\OneDrive\Área de Trabalho\Teste-1\Questao1\obj\Debug\net6.0\r
 C:\Users\Destiny7\OneDrive\Área de Trabalho\Teste-1\Questao1\obj\Debug\net6.0\Questao1.pdb
 C:\Users\Destiny7\OneDrive\Área de Trabalho\Teste-1\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
 C:\Users\Destiny7\OneDrive\Área de Trabalho\Teste-1\Questao1\obj\Debug\net6.0\ref\Questao1.dll
+C:\Projetos\Test_Bank\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Projetos\Test_Bank\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Projetos\Test_Bank\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Projetos\Test_Bank\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Projetos\Test_Bank\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.csproj.AssemblyReference.cache
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Projetos\Test_Bank\Questao1\obj\Debug\net6.0\ref\Questao1.dll
