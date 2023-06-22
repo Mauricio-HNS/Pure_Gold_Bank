@@ -18,16 +18,7 @@ namespace Questao2
             HttpResponseMessage response = httpClient.GetAsync(url).Result;
             string json = response.Content.ReadAsStringAsync().Result;
             JObject data = JsonConvert.DeserializeObject<JObject>(json);
-            int totalPages = 0;
-
-            if (data != null && data["total_pages"] != null)
-            {
-                totalPages = (int)data["total_pages"];
-            }
-            else
-            {
-                // Tratar caso data seja nulo ou total_pages seja nulo
-            }
+            int totalPages = data?["total_pages"]?.Value<int>() ?? 0;
 
             for (int page = 1; page <= totalPages; page++)
             {
