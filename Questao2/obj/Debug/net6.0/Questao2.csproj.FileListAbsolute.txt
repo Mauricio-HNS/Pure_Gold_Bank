@@ -15,3 +15,4 @@ C:\Projetos\Test_Bank\Questao2\obj\Debug\net6.0\refint\Questao2.dll
 C:\Projetos\Test_Bank\Questao2\obj\Debug\net6.0\Questao2.pdb
 C:\Projetos\Test_Bank\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
 C:\Projetos\Test_Bank\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Projetos\Test_Bank\Questao2\bin\Debug\net6.0\Dapper.dll

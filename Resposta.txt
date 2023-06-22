@@ -1,0 +1,40 @@
+//===================================
+|	RESPOSTA DO TESTE PERGUNTA Nº 4 |
+|									|
+=====================================//
+
+Resultado esperado:
+Assunto / Ano / Quantidade
+1 Reclamacao Cadastro 2022   8
+2 Reclamacao Produto 2021    6
+3 Reclamacao Atendimento 2021  4
+
+================================================
+	MODELO DE SCRIPT PARA ESTE SELECT / UNION.
+================================================
+
+SELECT assunto, ano, COUNT(*) AS quantidade
+FROM atendimentos
+WHERE assunto = 'Reclamacao atendimento'
+GROUP BY assunto, ano
+HAVING COUNT(*) > 3
+UNION
+SELECT assunto, ano, COUNT(*) AS quantidade
+FROM atendimentos
+WHERE assunto = 'Reclamacao produto'
+GROUP BY assunto, ano
+HAVING COUNT(*) > 3
+UNION
+SELECT assunto, ano, COUNT(*) AS quantidade
+FROM atendimentos
+WHERE assunto = 'Reclamacao cadastro'
+GROUP BY assunto, ano
+HAVING COUNT(*) > 3
+ORDER BY ano, quantidade DESC;
+
+
+===========================================
+
+Esse resultado inclui os assuntos "Reclamacao produto" e
+"Reclamacao cadastro", além do assunto "Reclamacao 
+atendimento", conforme solicitado em seu resultado esperado.

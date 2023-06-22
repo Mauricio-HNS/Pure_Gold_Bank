@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "urhK6fTUI42pNEtvf4KrMJDOG8isJDqbvgk/LcESaFCbI9iPWqP8QyeK+GzNyfO+2y8CxFXQRQnzeyRVAW8VGQ==",
+  "dgSpecHash": "7Pe3WkSb/cC5Kcb2W80LDak7ILeA7oqQbEwDMKapNFklzZl9wgQsANWsiiPnbWWfAamcbpRklgYchRgouia67A==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Test_Bank\\Questao1\\Questao1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Destiny7\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512"
+  ],
   "logs": []
 }

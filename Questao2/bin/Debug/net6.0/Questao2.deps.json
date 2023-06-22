@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "Questao2/1.0.0": {
         "dependencies": {
+          "Dapper": "2.0.143",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "Questao2.dll": {}
+        }
+      },
+      "Dapper/2.0.143": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.143.55328"
+          }
         }
       },
       "Newtonsoft.Json/13.0.1": {
@@ -29,6 +38,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Dapper/2.0.143": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vh0U+Fins3IpS7APUlrzga3+1mswWngB5fZ0xj4w+FQR5JhJzA5uHV5rSepkahvmshNZUA0YcHtae9vFQpiVTw==",
+      "path": "dapper/2.0.143",
+      "hashPath": "dapper.2.0.143.nupkg.sha512"
     },
     "Newtonsoft.Json/13.0.1": {
       "type": "package",
