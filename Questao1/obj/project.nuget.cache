@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7Pe3WkSb/cC5Kcb2W80LDak7ILeA7oqQbEwDMKapNFklzZl9wgQsANWsiiPnbWWfAamcbpRklgYchRgouia67A==",
+  "dgSpecHash": "jBX6L3iEN1O7AA/Ojx9FBw+bfpcmltpsnvEaHDismqXqhCeQQol7FiqP7ScMEMF0wf6vIK8zq1ikUmZVpSe/Ow==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Test_Bank\\Questao1\\Questao1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Destiny7\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512"
+    "C:\\Users\\Destiny7\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\Destiny7\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Destiny7\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

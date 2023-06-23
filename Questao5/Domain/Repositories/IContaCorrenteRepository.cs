@@ -6,5 +6,6 @@ namespace Questao5.Domain.Repositories
     {
         ContaCorrente GetById(int id);
         void AddMovimento(int idContaCorrente, Movimento movimento);
+        object ObterPorId(Guid idContaCorrente);
     }
 }
